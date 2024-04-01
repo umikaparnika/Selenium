@@ -15,7 +15,7 @@ public class SingleLineMultiDocumentComments {
 		
 		/** Document line comment */
 		
-		System.out.println("Selenium with Java");
+		System.out.println("Selenium and Java");
 	}
 
 }
